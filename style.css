@@ -1,0 +1,22 @@
+li.navbar {
+    display: inline;
+    padding: 20px;
+    font-size: large;
+}
+
+a.a1 {
+    text-decoration: none;
+    color: black;
+}
+
+div.navbar_place {
+    padding-left: 300px;
+}
+
+span.nav_beetwen {
+    opacity: 0.2;
+}
+
+h1.main_title{
+    font-size: xxx-large;
+}
