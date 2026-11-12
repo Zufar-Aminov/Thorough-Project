@@ -1,7 +1,7 @@
 li.navbar {
     display: inline;
     padding: 20px;
-    font-size: large;
+    font-size:medium;
 }
 
 a.a1 {
@@ -17,6 +17,15 @@ span.nav_beetwen {
     opacity: 0.2;
 }
 
-h1.main_title{
-    font-size: xxx-large;
+h1.main_title {
+    font-size:45px;
+}
+
+p.second_title {
+    font-size: 20px;
+    opacity: 0.6;
+}
+
+div.title1 {
+    padding-left: 50px;
 }
