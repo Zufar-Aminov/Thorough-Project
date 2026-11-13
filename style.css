@@ -1,7 +1,7 @@
 li.navbar {
     display: inline;
     padding: 20px;
-    font-size:large;
+    font-size:17px;
 }
 
 a.a1 {
@@ -9,8 +9,12 @@ a.a1 {
     color: black;
 }
 
-div.navbar_place {
-    padding-left: 300px;
+.navbar_place ul {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    margin: 0.5;
+    padding-left: 320px;
 }
 
 span.nav_beetwen {
@@ -19,13 +23,23 @@ span.nav_beetwen {
 
 h1.main_title {
     font-size:45px;
+    color: rgb(3, 3, 99);
 }
 
 p.second_title {
     font-size: 20px;
     opacity: 0.6;
+    color: rgb(2, 2, 94);
 }
 
 div.title1 {
-    padding-left: 50px;
+    padding-left: 40px;
+    margin-top: 60px;
+}
+
+.logo {
+    width: 200px;
+    position: absolute;
+    top: 10px;
+    left: 40px;
 }
