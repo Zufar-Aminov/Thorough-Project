@@ -43,3 +43,48 @@ div.title1 {
     top: 10px;
     left: 40px;
 }
+
+.login {
+    width: 65px;
+    height: 40px;
+    position: absolute;
+    top: 3.5%;
+    left: 40px;
+    margin-left: 1000px;
+    border-radius: 10px;
+    border-style:none;
+    background-color: rgb(231, 242, 252);
+}
+
+.register {
+    width: 125px;
+    height: 40px;
+    position: absolute;
+    top: 3.5%;
+    left: 1119px;
+    border-radius: 10px;
+    border-style:none;
+    background-color: rgb(73, 84, 243);
+    color: white;
+}
+
+.sidebar {
+    display: flex;
+}
+
+.sidebar1 {
+    width: 10%;
+    background-color: rgb(241, 241, 157);
+    margin-top: 5px;
+}
+
+.sidebar2 {
+    width: 80%;
+    margin-top: -5px;
+}
+
+.sidebar3 {
+    width: 10%;
+    background-color: rgb(241, 241, 157);
+    margin-top: 5px;
+}
