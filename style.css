@@ -17,7 +17,7 @@ a.a1 {
     padding-left: 320px;
 }
 
-span.nav_beetwen {
+.nav_beetwen {
     opacity: 0.2;
 }
 
@@ -74,8 +74,11 @@ div.title1 {
 
 .sidebar1 {
     width: 10%;
-    background-color: rgb(241, 241, 157);
+    background-color: rgb(136, 109, 223);
     margin-top: 30px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
 }
 
 .sidebar2 {
@@ -85,6 +88,16 @@ div.title1 {
 
 .sidebar3 {
     width: 10%;
-    background-color: rgb(241, 241, 157);
+    background-color: rgb(136, 109, 223);
     margin-top: 30px;
+    text-align: center;
+    border-radius: 10px;
+    padding-top: 5px;
+}
+.stx {
+    text-decoration: none;
+    color: black;
+    background-color: rgb(114, 112, 122);
+    width: 100px;
+    height: 120px;
 }
